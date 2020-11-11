@@ -1,0 +1,118 @@
+{
+  "ACCESSCONTROL-ACTIONS-TEST": {
+    "actions-test": {
+      "masterName": "actions-test",
+      "isMergeAllowed": true,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.id"
+      ]
+    }
+  },
+  "ACCESSCONTROL-ROLES": {
+    "roles": {
+      "masterName": "roles",
+      "isStateLevel": true,
+      "isMergeAllowed": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
+  "ACCESSCONTROL-ROLEACTIONS": {
+    "roleactions": {
+      "masterName": "roleactions",
+      "isMergeAllowed": true,
+      "uniqueKeys": [
+        "$.rolecode",
+        "$.actionid",
+        "$.tenantid"
+      ]
+    }
+  },
+  "common-masters": {
+    "Department": {
+      "masterName": "Department",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code",
+        "$.tenantId"
+      ]
+    },
+    "Designation": {
+      "masterName": "Designation",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
+  "tenant": {
+    "tenants": {
+      "masterName": "tenants",
+      "isStateLevel": true,
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "citymodule": {
+      "masterName": "citymodule",
+      "isStateLevel": true,
+      "moduleDefinition": null,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  },
+  "BillingService": {
+    "BusinessService": {
+      "masterName": "BusinessService",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "TaxHeadMaster": {
+      "masterName": "TaxHeadMaster",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "TaxPeriod": {
+      "masterName": "TaxPeriod",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    }
+  },
+  "FinanceModule": {
+    "BusinessServiceMapping": {
+      "masterName": "BusinessServiceMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "TaxHeadMasterGlCodeMapping": {
+      "masterName": "TaxHeadMasterGlCodeMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.billingservicecode",
+        "$.taxhead"
+      ]
+    },
+    "InstrumentGLcodeMapping": {
+      "masterName": "InstrumentGLcodeMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.instrumenttype"
+      ]
+    },
+    "FinanceInstrumentStatusMapping": {
+      "masterName": "FinanceInstrumentStatusMapping",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
+  }
+}
