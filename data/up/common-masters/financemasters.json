@@ -1,0 +1,8 @@
+{
+	"tenantId": "up",
+	"moduleName": "common-masters",
+	"mapping": [{
+		"departments": "",
+		"designation": ""
+	}]
+}

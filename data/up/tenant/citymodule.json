@@ -1,0 +1,12 @@
+{
+  "tenantId": "up",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "tenants": [
+      ]
+    }
+  ]
+}

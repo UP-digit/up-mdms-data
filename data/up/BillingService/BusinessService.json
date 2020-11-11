@@ -1,0 +1,19 @@
+{
+  "tenantId": "up",
+  "moduleName": "BillingService",
+  "BusinessService": [    
+    {
+      "businessService": "Revenue Grants",
+      "code": "REV_GRANTS",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    }   
+  ]
+}
+  
