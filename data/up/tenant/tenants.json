@@ -2,5 +2,39 @@
   "tenantId": "up",
   "moduleName": "tenant",
   "tenants": [
-  ]
+      {
+         "code":"up.ayodhya",
+         "name":"ayodhya",
+         "description":"ayodhya",
+         "logoId":null,
+         "imageId":null,
+         "domainUrl":null,
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":null,
+         "OfficeTimings":{
+            "Mon - Fri":null
+         },
+         "city":{
+            "name":"ayodhya",
+            "localName":"Ayodhya",
+            "districtCode":"10",
+            "districtName":"ayodhya",
+            "districtTenantCode":"up.ayodhya",
+            "regionName":"Ayodhya Region",
+            "ulbGrade":"Municipal Corporation",
+            "longitude":75.5761829,
+            "latitude":31.3260152,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"1013",
+            "regionCode":"4",
+            "municipalityName":"Ayodhya",
+            "ddrName":"ayodhya-MC"
+         },
+         "address":null,
+         "contactNumber":null
+      }
+   ]
 }

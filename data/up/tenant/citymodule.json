@@ -1,12 +1,15 @@
 {
-  "tenantId": "up",
-  "moduleName": "tenant",
-  "citymodule": [
-    {
-      "module": "Finance",
-      "code": "Finance",
-      "tenants": [
-      ]
-    }
-  ]
+   "tenantId":"up",
+   "moduleName":"tenant",
+   "citymodule":[
+      {
+         "module":"Finance",
+         "code":"Finance",
+         "tenants":[
+            {
+               "code":"up.ayodhya"
+            }
+         ]
+      }
+   ]
 }
