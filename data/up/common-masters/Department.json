@@ -1,6 +1,45 @@
 {
-  "tenantId": "up",
-  "moduleName": "common-masters",
-  "Department": [
-  ]
+	"tenantId": "up",
+	"moduleName": "common-masters",
+	"Department": [{
+			"name": "Administration",
+			"code": "ADM",
+			"active": true
+		},
+		{
+			"name": "Revenue",
+			"code": "REV",
+			"active": true
+		},
+		{
+			"name": "Accounts",
+			"code": "ACC",
+			"active": true
+		},
+		{
+			"name": "Public Health and Sanitation",
+			"code": "PHS",
+			"active": true
+		},
+		{
+			"name": "Engineering",
+			"code": "ENG",
+			"active": true
+		},
+		{
+			"name": "Town Planning",
+			"code": "TP",
+			"active": true
+		},
+		{
+			"name": "Urban Poverty Alleviation",
+			"code": "UPA",
+			"active": true
+		},
+		{
+			"name": "Education",
+			"code": "EDU",
+			"active": true
+		}
+	]
 }
