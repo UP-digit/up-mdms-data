@@ -12,7 +12,7 @@
          "type":"CITY",
          "twitterUrl":null,
          "facebookUrl":null,
-         "emailId":null,
+         "emailId":"nagarnigamayodhya@gmail.com",
          "OfficeTimings":{
             "Mon - Fri":null
          },
@@ -24,13 +24,13 @@
             "districtTenantCode":"up.ayodhya",
             "regionName":"Ayodhya Region",
             "ulbGrade":"Nagar Nigam",
-            "longitude":null,
-            "latitude":null,
+            "longitude":26.7730,
+            "latitude":82.1458,
             "shapeFileLocation":null,
             "captcha":null,
             "code":"7111",
             "regionCode":null,
-            "municipalityName":"Ayodhya",
+            "municipalityName":"Nagar Nigam Ayodhya",
             "ddrName":"ayodhya-NN"
          },
          "address":null,
