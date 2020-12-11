@@ -4,8 +4,8 @@
   "tenants": [
       {
          "code":"up.ayodhya",
-         "name":"ayodhya",
-         "description":"ayodhya",
+         "name":"Ayodhya",
+         "description":"Ayodhya",
          "logoId":null,
          "imageId":null,
          "domainUrl":null,
@@ -17,21 +17,21 @@
             "Mon - Fri":null
          },
          "city":{
-            "name":"ayodhya",
+            "name":"Ayodhya",
             "localName":"Ayodhya",
-            "districtCode":"10",
-            "districtName":"ayodhya",
+            "districtCode":"140",
+            "districtName":"Ayodhya",
             "districtTenantCode":"up.ayodhya",
             "regionName":"Ayodhya Region",
-            "ulbGrade":"Municipal Corporation",
-            "longitude":75.5761829,
-            "latitude":31.3260152,
+            "ulbGrade":"Nagar Nigam",
+            "longitude":null,
+            "latitude":null,
             "shapeFileLocation":null,
             "captcha":null,
-            "code":"1013",
-            "regionCode":"4",
+            "code":"7111",
+            "regionCode":null,
             "municipalityName":"Ayodhya",
-            "ddrName":"ayodhya-MC"
+            "ddrName":"ayodhya-NN"
          },
          "address":null,
          "contactNumber":null
