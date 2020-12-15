@@ -5,8 +5,8 @@
     {
       "name": "Uttar Pradesh",
       "code": "up",
-      "bannerUrl": "",
-      "logoUrl": "",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.testing/banner.jpg",
+      "logoUrl": "https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.testing/mseva-up.png",
       "qrCodeURL":"",
       "enableWhatsApp" : false,
       "hasLocalisation": false,
