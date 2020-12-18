@@ -1,6 +1,380 @@
 {
-  "tenantId": "up",
-  "moduleName": "common-masters",
-  "Designation": [ 
-  ]
+	"tenantId": "up",
+	"moduleName": "common-masters",
+	"Designation": [{
+			"code": "MC",
+			"name": "Munincipal Commissioner"
+		},
+
+		{
+			"code": "AMC",
+			"name": "Additional Municipal Commissioner"
+		},
+
+		{
+			"code": "DMC",
+			"name": "Deupty Municipal Commissioner"
+		},
+
+		{
+			"code": "Asst MC",
+			"name": "Assistant Munincipal Commissioner"
+		},
+
+		{
+			"code": "JMC",
+			"name": "Joint Munincipal Commissioner"
+		},
+
+		{
+			"code": "EO",
+			"name": "Executive Officer"
+		},
+
+		{
+			"code": "EO",
+			"name": "Environmental Officer"
+		},
+
+		{
+			"code": "CFO",
+			"name": "Chief Finance Officer"
+		},
+
+		{
+			"code": "AO",
+			"name": "Accounts Officer"
+		},
+
+		{
+			"code": "AAO",
+			"name": "Assistant Accounts Officer"
+		},
+
+		{
+			"code": "Acct",
+			"name": "Accountant"
+		},
+
+		{
+			"code": "Asst Acct",
+			"name": "Assistant Accountant"
+		},
+
+		{
+			"code": "AC",
+			"name": "Accounts Clerk"
+		},
+
+		{
+			"code": "Cashier",
+			"name": "Cashier"
+		},
+
+		{
+			"code": "MNLP",
+			"name": "Mukhy Nagar Lekha Parikshak"
+		},
+
+		{
+			"code": "SA",
+			"name": "Senior Auditor"
+		},
+
+		{
+			"code": "CE",
+			"name": "Chief Engineer"
+		},
+
+		{
+			"code": "EE",
+			"name": "Executive Engineer"
+		},
+
+		{
+			"code": "AE",
+			"name": "Assistant Engineer"
+		},
+
+		{
+			"code": "JE",
+			"name": "Junior Engineer"
+		},
+
+		{
+			"code": "KNA",
+			"name": "Kar Nirdharan Adhikari"
+		},
+
+		{
+			"code": "TS",
+			"name": "Tax Superintendants"
+		},
+
+		{
+			"code": "RI",
+			"name": "Revenue Inspector"
+		},
+
+		{
+			"code": "TC",
+			"name": "Tax Collector"
+		},
+
+		{
+			"code": "Moharrir",
+			"name": "Moharrir"
+		},
+
+		{
+			"code": "NM",
+			"name": "Nayab Moharrir"
+		},
+
+		{
+			"code": "NSA",
+			"name": "Nagar Swasth Adhikari"
+		},
+
+		{
+			"code": "Steno",
+			"name": "Steno"
+		},
+
+		{
+			"code": "JA",
+			"name": "Junior Assistant"
+		},
+
+		{
+			"code": "OS",
+			"name": "Office Superintendents"
+		},
+
+		{
+			"code": "HC",
+			"name": "Head Clerk"
+		},
+
+		{
+			"code": "Clerk",
+			"name": "Clerk"
+		},
+
+		{
+			"code": "Tahsildaar",
+			"name": "Tahsildaar"
+		},
+
+		{
+			"code": "Lekhpal",
+			"name": "Lekhpal"
+		},
+
+		{
+			"code": "CSI",
+			"name": "Chief Sanitary Inspector"
+		},
+
+		{
+			"code": "ZSO",
+			"name": "Zonal Sanitary Officer"
+		},
+
+		{
+			"code": "SI",
+			"name": "Sanitary Inspector"
+		},
+
+		{
+			"code": "SA",
+			"name": "Senior Assistant"
+		},
+
+		{
+			"code": "SS",
+			"name": "Sanitary Supervisor"
+		},
+
+		{
+			"code": "SN",
+			"name": "Safai Nayak"
+		},
+
+		{
+			"code": "SK",
+			"name": "Safai Karmchari"
+		},
+
+		{
+			"code": "GS",
+			"name": "Garden Superintendants"
+		},
+
+		{
+			"code": "HI",
+			"name": "Horticulture Inspector"
+		},
+
+		{
+			"code": "Nazir",
+			"name": "Nazir"
+		},
+
+		{
+			"code": "Asst N",
+			"name": "Assistant Nazir"
+		},
+
+		{
+			"code": "ITE",
+			"name": "I T Expert"
+		},
+
+		{
+			"code": "CP",
+			"name": "Computer Programmer"
+		},
+
+		{
+			"code": "CO",
+			"name": "Computer Operator"
+		},
+
+		{
+			"code": "SDGO",
+			"name": "Shav Dah Grih - Operator"
+		},
+
+		{
+			"code": "Driver",
+			"name": "Driver"
+		},
+
+		{
+			"code": "LS",
+			"name": "Light Superintendents"
+		},
+
+		{
+			"code": "LL",
+			"name": "Lamp Lighter"
+		},
+
+		{
+			"code": "FM",
+			"name": "Fire Man"
+		},
+
+		{
+			"code": "Nalagang",
+			"name": "Nalagang"
+		},
+
+		{
+			"code": "Mali",
+			"name": "Mali"
+		},
+
+		{
+			"code": "NR",
+			"name": "Nayak Rakshak"
+		},
+
+		{
+			"code": "Rakshak",
+			"name": "Rakshak"
+		},
+
+		{
+			"code": "Pharmasist",
+			"name": "Pharmasist"
+		},
+
+		{
+			"code": "Vaccinator",
+			"name": "Vaccinator"
+		},
+
+		{
+			"code": "CC",
+			"name": "Cattle Catcher"
+		},
+
+		{
+			"code": "PKA",
+			"name": "Pashu Kalyan Adhikari"
+		},
+
+		{
+			"code": "SPKA",
+			"name": "Sanyukt Pashu Kalyan Adhikari"
+		},
+
+		{
+			"code": "UPKA",
+			"name": "Up Pashu kalyan Adhikari"
+		},
+
+		{
+			"code": "Midewife",
+			"name": "Midewife"
+		},
+
+		{
+			"code": "Dai",
+			"name": "Dai"
+		},
+
+		{
+			"code": "HM",
+			"name": "Hammer Man"
+		},
+
+		{
+			"code": "Khallasi",
+			"name": "Khallasi"
+		},
+
+		{
+			"code": "Cleaner",
+			"name": "Cleaner"
+		},
+
+		{
+			"code": "Ameen",
+			"name": "Ameen"
+		},
+
+		{
+			"code": "Chaukidar",
+			"name": "Chaukidar"
+		},
+
+		{
+			"code": "EA",
+			"name": "Electric Attendant"
+		},
+
+		{
+			"code": "Peon",
+			"name": "Peon"
+		},
+
+		{
+			"code": "Meth",
+			"name": "Meth"
+		},
+
+		{
+			"code": "Beldar",
+			"name": "Beldar"
+		},
+
+		{
+			"code": "CT",
+			"name": "Care Taker"
+		}
+	]
+
 }
