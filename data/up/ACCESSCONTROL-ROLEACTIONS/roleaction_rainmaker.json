@@ -5,103 +5,115 @@
 			"rolecode": "SUPERUSER",
 			"actionid": 1529,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1530,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1531,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 1529,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 1530,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 1531,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "CITIZEN",
 			"actionid": 1529,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "CITIZEN",
 			"actionid": 1530,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "CITIZEN",
 			"actionid": 1531,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "GRO",
 			"actionid": 1529,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "GRO",
 			"actionid": 1530,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "GRO",
 			"actionid": 1531,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "DGRO",
 			"actionid": 1529,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "DGRO",
 			"actionid": 1530,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "DGRO",
 			"actionid": 1531,
 			"actioncode": "",
-			"tenantid": "pb"
+			"tenantid": "up"
 		},
 		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1734,
 			"actioncode": "",
-			"tenantId": "pb"
+			"tenantId": "up"
 		},
 		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1980,
 			"actioncode": "",
-			"tenantId": "pb"
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "SUPERUSER",
+			"actionid": 696,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "SYS_INTEGRATOR_FINANCE",
+			"actionid": 696,
+			"actioncode": "",
+			"tenantId": "up"
 		}
 	]
 }
