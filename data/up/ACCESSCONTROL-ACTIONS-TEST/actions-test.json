@@ -1625,9 +1625,10 @@
          "serviceCode": "Collections",
          "code": "null",
          "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
-         "path": "Collections.Cheque Remittance"
-       },
-       {
+         "leftIcon": "image:collections",
+         "path": "Finance.Revenue/Collections.Cheque Remittance"
+      },
+      {
          "id": 1698,
          "name": "Cash Remittance",
          "url": "url",
@@ -1638,9 +1639,10 @@
          "serviceCode": "Collections",
          "code": "null",
          "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
-         "path": "Collections.Cash Remittance"
-       },
-       {
+         "leftIcon": "image:collections",
+         "path": "Finance.Revenue/Collections.Cash Remittance"
+      },
+      {
          "id": 1691,
          "name": "Misc.Receipts",
          "url": "url",
@@ -1651,9 +1653,10 @@
          "serviceCode": "Collections",
          "code": "null",
          "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
-         "path": "Collections.Miscellaneous Receipts"
-       },
-       {
+         "leftIcon": "image:collections",
+         "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+      },
+      {
          "id": 1693,
          "name": "Receipts Search",
          "url": "url",
@@ -1664,8 +1667,9 @@
          "serviceCode": "Collections",
          "code": "null",
          "navigationURL": "services/collection/receipts/searchReceipt.action",
-         "path": "Collections.Search Receipts"
-       },
+         "leftIcon": "image:collections",
+         "path": "Finance.Revenue/Collections.Search Receipts"
+      },
        {
         "id": 696,
         "name": "Get User",
