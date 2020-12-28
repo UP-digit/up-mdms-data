@@ -1,0 +1,13 @@
+{
+  "tenantId": "up.ayodhya",
+  "moduleName": "FinanceModule",
+  "BankAccountServiceMapping": [
+    {
+      "businessDetails": "REV_GRANTS",
+      "bankAccount": "20231133960",
+      "bank": "Allahabad Bank",
+      "bankBranch": "0090",
+      "tenantId": "up.ayodhya"
+    }
+  ]
+}
