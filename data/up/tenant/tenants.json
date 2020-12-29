@@ -35,6 +35,74 @@
          },
          "address":null,
          "contactNumber":null
+      },
+      {
+         "code":"up.mathura",
+         "name":"Mathura",
+         "description":"Mathura",
+         "logoId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mathura/logo.png",
+         "imageId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mathura/logo.png",
+         "domainUrl":null,
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"nagarnigammathura@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":null
+         },
+         "city":{
+            "name":"Mathura",
+            "localName":"Mathura",
+            "districtCode":"140",
+            "districtName":"Mathura",
+            "districtTenantCode":"up.mathura",
+            "regionName":"Mathura Region",
+            "ulbGrade":"Nagar Nigam",
+            "longitude":26.7630,
+            "latitude":82.8458,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"7112",
+            "regionCode":null,
+            "municipalityName":"Nagar Nigam Mathura",
+            "ddrName":"mathura-NN"
+         },
+         "address":null,
+         "contactNumber":null
+      },
+      {
+         "code":"up.mau",
+         "name":"Mau",
+         "description":"Mau",
+         "logoId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mau/logo.png",
+         "imageId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mau/logo.png",
+         "domainUrl":null,
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"nagarnigammau@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":null
+         },
+         "city":{
+            "name":"Mau",
+            "localName":"Mau",
+            "districtCode":"140",
+            "districtName":"Mau",
+            "districtTenantCode":"up.mau",
+            "regionName":"Mau Region",
+            "ulbGrade":"Nagar Palika",
+            "longitude":26.7030,
+            "latitude":32.1452,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"7113",
+            "regionCode":null,
+            "municipalityName":"Nagar Palika Mau",
+            "ddrName":"mau-NP"
+         },
+         "address":null,
+         "contactNumber":null
       }
    ]
 }

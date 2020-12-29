@@ -8,6 +8,12 @@
          "tenants":[
             {
                "code":"up.ayodhya"
+            },
+            {
+               "code":"up.mathura"
+            },
+            {
+               "code":"up.mau"
             }
          ]
       }
