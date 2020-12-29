@@ -5,9 +5,9 @@
     {
       "code":"REV_GRANTS",
       "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"000201",
-      "department":"DEPT_25",
+      "fund":"MF01",
+      "function":"0001",
+      "department":"ACC",
       "functionary":"",
       "scheme":"",
       "subscheme":"",
