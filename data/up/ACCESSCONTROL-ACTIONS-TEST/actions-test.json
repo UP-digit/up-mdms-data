@@ -1670,16 +1670,52 @@
          "leftIcon": "image:collections",
          "path": "Finance.Revenue/Collections.Search Receipts"
       },
-       {
-        "id": 696,
-        "name": "Get User",
-        "url": "/user/_details",
-        "displayName": "Get User Details",
-        "orderNumber": 1,
-        "enabled": false,
-        "serviceCode": "ADMIN",
-        "code": "null",
-        "path": "Administration.Get User"
+      {
+         "id": 696,
+         "name": "Get User",
+         "url": "/user/_details",
+         "displayName": "Get User Details",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "ADMIN",
+         "code": "null",
+         "path": "Administration.Get User"
+      },
+      {
+         "id": 1750,
+         "name": "Employee Create",
+         "url": "/egov-hrms/employees/_create",
+         "parentModule": "egov-hrms",
+         "displayName": "Employee Create",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-hrms",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 1751,
+         "name": "Employee Update",
+         "url": "/egov-hrms/employees/_update",
+         "parentModule": "egov-hrms",
+         "displayName": "Employee Update",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-hrms",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 1752,
+         "name": "Employee Search",
+         "url": "/egov-hrms/employees/_search",
+         "parentModule": "egov-hrms",
+         "displayName": "Employee Search",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "egov-hrms",
+         "code": "null",
+         "path": ""
       }
    ]
 }

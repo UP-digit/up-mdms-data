@@ -114,6 +114,42 @@
 			"actionid": 696,
 			"actioncode": "",
 			"tenantId": "up"
+		},
+		{
+			"rolecode": "SUPERUSER",
+			"actionid": 1750,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "SUPERUSER",
+			"actionid": 1751,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 1751,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "SUPERUSER",
+			"actionid": 1752,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 1752,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "CITIZEN",
+			"actionid": 1752,
+			"actioncode": "",
+			"tenantId": "up"
 		}
 	]
 }
