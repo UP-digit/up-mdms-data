@@ -1716,6 +1716,20 @@
          "serviceCode": "egov-hrms",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 1773,
+         "name": "HRMS",
+         "url": "url",
+         "displayName": "Search Employee",
+         "orderNumber": 2,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "HRMS",
+         "code": "null",
+         "navigationURL": "hrms/search",
+         "path": "HRMS.Search",
+         "leftIcon": "social:people"
       }
    ]
 }

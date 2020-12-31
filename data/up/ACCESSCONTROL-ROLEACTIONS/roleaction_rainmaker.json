@@ -150,6 +150,12 @@
 			"actionid": 1752,
 			"actioncode": "",
 			"tenantId": "up"
-		}
+		},
+		{
+      			"rolecode": "SUPERUSER",
+      			"actionid": 1773,
+      			"actioncode": "",
+      			"tenantId": "pb"
+    		}
 	]
 }
