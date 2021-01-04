@@ -1,0 +1,114 @@
+{
+  "tenantId": "up.ayodhya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "ayodhya",
+        "localname": "ayodhya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "up.ayodhya",
+        "children": [
+          {
+            "id": "1f329443-2cf6-4788-ae84-8c8f",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "AZ-1",
+            "children": [
+              {
+                "id": "109dbe8f-8343-9d1b-ca10e6bb9431",
+                "boundaryNum": 1,
+                "name": "Ward 01",
+                "localname": "Ward 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 01",
+                "children": [
+                  {
+                    "id": "1d0138c2-4711-b689-8a74afc3b6ad",
+                    "boundaryNum": 1,
+                    "name": "Dasmesh Avenue - Ward 01",
+                    "localname": "Dasmesh Avenue - Ward 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALOC-205",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }             
+            ]
+          }          
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "ayodhya",
+        "localname": "ayodhya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "up.ayodhya",
+        "children": [
+          {
+            "id": "417b2ffa-dbaf-4f6f-a825-d902468",
+            "boundaryNum": 1,
+            "name": "OUTSIDE-MC-LIMIT",
+            "localname": "OUTSIDE-MC-LIMIT",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZNA1",
+            "children": [
+              {
+                "id": "096e9822-67ce-4026-b578-1ac3fa4",
+                "boundaryNum": 1,
+                "name": "OMCL",
+                "localname": "OMCL",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "NA1",
+                "children": [
+                  {
+                    "id": "af07e8f2-22d5-42ad-605988279197",
+                    "boundaryNum": 1,
+                    "name": "AASHIYANA ENCLAVE - NA1 - A3",
+                    "localname": "AASHIYANA ENCLAVE - NA1 - A3",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALOC1",
+                    "area": "AREA3",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
