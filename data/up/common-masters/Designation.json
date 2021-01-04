@@ -3,303 +3,378 @@
 	"moduleName": "common-masters",
 	"Designation": [{
 			"code": "MC",
-			"name": "Munincipal Commissioner"
+			"name": "Munincipal Commissioner",
+			"active": true
 		},
 		{
 			"code": "AMC",
-			"name": "Additional Municipal Commissioner"
+			"name": "Additional Municipal Commissioner",
+			"active": true
 		},
 		{
 			"code": "DMC",
-			"name": "Deupty Municipal Commissioner"
+			"name": "Deupty Municipal Commissioner",
+			"active": true
 		},
 		{
 			"code": "Asst MC",
-			"name": "Assistant Munincipal Commissioner"
+			"name": "Assistant Munincipal Commissioner",
+			"active": true
 		},
 		{
 			"code": "JMC",
-			"name": "Joint Munincipal Commissioner"
+			"name": "Joint Munincipal Commissioner",
+			"active": true
 		},
 		{
 			"code": "EO",
-			"name": "Executive Officer"
+			"name": "Executive Officer",
+			"active": true
 		},
 		{
 			"code": "EO",
-			"name": "Environmental Officer"
+			"name": "Environmental Officer",
+			"active": true
 		},
 		{
 			"code": "CFO",
-			"name": "Chief Finance Officer"
+			"name": "Chief Finance Officer",
+			"active": true
 		},
 		{
 			"code": "AO",
-			"name": "Accounts Officer"
+			"name": "Accounts Officer",
+			"active": true
 		},
 		{
 			"code": "AAO",
-			"name": "Assistant Accounts Officer"
+			"name": "Assistant Accounts Officer",
+			"active": true
 		},
 		{
 			"code": "Acct",
-			"name": "Accountant"
+			"name": "Accountant",
+			"active": true
 		},
 		{
 			"code": "Asst Acct",
-			"name": "Assistant Accountant"
+			"name": "Assistant Accountant",
+			"active": true
 		},
 		{
 			"code": "AC",
-			"name": "Accounts Clerk"
+			"name": "Accounts Clerk",
+			"active": true
 		},
 		{
 			"code": "Cashier",
-			"name": "Cashier"
+			"name": "Cashier",
+			"active": true
 		},
 		{
 			"code": "MNLP",
-			"name": "Mukhy Nagar Lekha Parikshak"
+			"name": "Mukhy Nagar Lekha Parikshak",
+			"active": true
 		},
 		{
 			"code": "SA",
-			"name": "Senior Auditor"
+			"name": "Senior Auditor",
+			"active": true
 		},
 		{
 			"code": "CE",
-			"name": "Chief Engineer"
+			"name": "Chief Engineer",
+			"active": true
 		},
 		{
 			"code": "EE",
-			"name": "Executive Engineer"
+			"name": "Executive Engineer",
+			"active": true
 		},
 		{
 			"code": "AE",
-			"name": "Assistant Engineer"
+			"name": "Assistant Engineer",
+			"active": true
 		},
 		{
 			"code": "JE",
-			"name": "Junior Engineer"
+			"name": "Junior Engineer",
+			"active": true
 		},
 		{
 			"code": "KNA",
-			"name": "Kar Nirdharan Adhikari"
+			"name": "Kar Nirdharan Adhikari",
+			"active": true
 		},
 		{
 			"code": "TS",
-			"name": "Tax Superintendants"
+			"name": "Tax Superintendants",
+			"active": true
 		},
 		{
 			"code": "RI",
-			"name": "Revenue Inspector"
+			"name": "Revenue Inspector",
+			"active": true
 		},
 		{
 			"code": "TC",
-			"name": "Tax Collector"
+			"name": "Tax Collector",
+			"active": true
 		},
 		{
 			"code": "Moharrir",
-			"name": "Moharrir"
+			"name": "Moharrir",
+			"active": true
 		},
 		{
 			"code": "NM",
-			"name": "Nayab Moharrir"
+			"name": "Nayab Moharrir",
+			"active": true
 		},
 		{
 			"code": "NSA",
-			"name": "Nagar Swasth Adhikari"
+			"name": "Nagar Swasth Adhikari",
+			"active": true
 		},
 		{
 			"code": "Steno",
-			"name": "Steno"
+			"name": "Steno",
+			"active": true
 		},
 		{
 			"code": "JA",
-			"name": "Junior Assistant"
+			"name": "Junior Assistant",
+			"active": true
 		},
 		{
 			"code": "OS",
-			"name": "Office Superintendents"
+			"name": "Office Superintendents",
+			"active": true
 		},
 		{
 			"code": "HC",
-			"name": "Head Clerk"
+			"name": "Head Clerk",
+			"active": true
 		},
 		{
 			"code": "Clerk",
-			"name": "Clerk"
+			"name": "Clerk",
+			"active": true
 		},
 		{
 			"code": "Tahsildaar",
-			"name": "Tahsildaar"
+			"name": "Tahsildaar",
+			"active": true
 		},
 		{
 			"code": "Lekhpal",
-			"name": "Lekhpal"
+			"name": "Lekhpal",
+			"active": true
 		},
 		{
 			"code": "CSI",
-			"name": "Chief Sanitary Inspector"
+			"name": "Chief Sanitary Inspector",
+			"active": true
 		},
 		{
 			"code": "ZSO",
-			"name": "Zonal Sanitary Officer"
+			"name": "Zonal Sanitary Officer",
+			"active": true
 		},
 		{
 			"code": "SI",
-			"name": "Sanitary Inspector"
+			"name": "Sanitary Inspector",
+			"active": true
 		},
 		{
 			"code": "SA",
-			"name": "Senior Assistant"
+			"name": "Senior Assistant",
+			"active": true
 		},
 		{
 			"code": "SS",
-			"name": "Sanitary Supervisor"
+			"name": "Sanitary Supervisor",
+			"active": true
 		},
 		{
 			"code": "SN",
-			"name": "Safai Nayak"
+			"name": "Safai Nayak",
+			"active": true
 		},
 		{
 			"code": "SK",
-			"name": "Safai Karmchari"
+			"name": "Safai Karmchari",
+			"active": true
 		},
 		{
 			"code": "GS",
-			"name": "Garden Superintendants"
+			"name": "Garden Superintendants",
+			"active": true
 		},
 		{
 			"code": "HI",
-			"name": "Horticulture Inspector"
+			"name": "Horticulture Inspector",
+			"active": true
 		},
 		{
 			"code": "Nazir",
-			"name": "Nazir"
+			"name": "Nazir",
+			"active": true
 		},
 		{
 			"code": "Asst N",
-			"name": "Assistant Nazir"
+			"name": "Assistant Nazir",
+			"active": true
 		},
 		{
 			"code": "ITE",
-			"name": "I T Expert"
+			"name": "I T Expert",
+			"active": true
 		},
 		{
 			"code": "CP",
-			"name": "Computer Programmer"
+			"name": "Computer Programmer",
+			"active": true
 		},
 		{
 			"code": "CO",
-			"name": "Computer Operator"
+			"name": "Computer Operator",
+			"active": true
 		},
 		{
 			"code": "SDGO",
-			"name": "Shav Dah Grih - Operator"
+			"name": "Shav Dah Grih - Operator",
+			"active": true
 		},
 		{
 			"code": "Driver",
-			"name": "Driver"
+			"name": "Driver",
+			"active": true
 		},
 		{
 			"code": "LS",
-			"name": "Light Superintendents"
+			"name": "Light Superintendents",
+			"active": true
 		},
 		{
 			"code": "LL",
-			"name": "Lamp Lighter"
+			"name": "Lamp Lighter",
+			"active": true
 		},
 		{
 			"code": "FM",
-			"name": "Fire Man"
+			"name": "Fire Man",
+			"active": true
 		},
 		{
 			"code": "Nalagang",
-			"name": "Nalagang"
+			"name": "Nalagang",
+			"active": true
 		},
 		{
 			"code": "Mali",
-			"name": "Mali"
+			"name": "Mali",
+			"active": true
 		},
 		{
 			"code": "NR",
-			"name": "Nayak Rakshak"
+			"name": "Nayak Rakshak",
+			"active": true
 		},
 		{
 			"code": "Rakshak",
-			"name": "Rakshak"
+			"name": "Rakshak",
+			"active": true
 		},
 		{
 			"code": "Pharmasist",
-			"name": "Pharmasist"
+			"name": "Pharmasist",
+			"active": true
 		},
 		{
 			"code": "Vaccinator",
-			"name": "Vaccinator"
+			"name": "Vaccinator",
+			"active": true
 		},
 		{
 			"code": "CC",
-			"name": "Cattle Catcher"
+			"name": "Cattle Catcher",
+			"active": true
 		},
 		{
 			"code": "PKA",
-			"name": "Pashu Kalyan Adhikari"
+			"name": "Pashu Kalyan Adhikari",
+			"active": true
 		},
 		{
 			"code": "SPKA",
-			"name": "Sanyukt Pashu Kalyan Adhikari"
+			"name": "Sanyukt Pashu Kalyan Adhikari",
+			"active": true
 		},
 		{
 			"code": "UPKA",
-			"name": "Up Pashu kalyan Adhikari"
+			"name": "Up Pashu kalyan Adhikari",
+			"active": true
 		},
 		{
 			"code": "Midewife",
-			"name": "Midewife"
+			"name": "Midewife",
+			"active": true
 		},
 		{
 			"code": "Dai",
-			"name": "Dai"
+			"name": "Dai",
+			"active": true
 		},
 		{
 			"code": "HM",
-			"name": "Hammer Man"
+			"name": "Hammer Man",
+			"active": true
 		},
 		{
 			"code": "Khallasi",
-			"name": "Khallasi"
+			"name": "Khallasi",
+			"active": true
 		},
 		{
 			"code": "Cleaner",
-			"name": "Cleaner"
+			"name": "Cleaner",
+			"active": true
 		},
 		{
 			"code": "Ameen",
-			"name": "Ameen"
+			"name": "Ameen",
+			"active": true
 		},
 		{
 			"code": "Chaukidar",
-			"name": "Chaukidar"
+			"name": "Chaukidar",
+			"active": true
 		},
 		{
 			"code": "EA",
-			"name": "Electric Attendant"
+			"name": "Electric Attendant",
+			"active": true
 		},
 		{
 			"code": "Peon",
-			"name": "Peon"
+			"name": "Peon",
+			"active": true
 		},
 		{
 			"code": "Meth",
-			"name": "Meth"
+			"name": "Meth",
+			"active": true
 		},
 		{
 			"code": "Beldar",
-			"name": "Beldar"
+			"name": "Beldar",
+			"active": true
 		},
 		{
 			"code": "CT",
-			"name": "Care Taker"
+			"name": "Care Taker",
+			"active": true
 		}
 	]
 
