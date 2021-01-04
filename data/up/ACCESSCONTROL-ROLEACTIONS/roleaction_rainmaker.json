@@ -162,19 +162,19 @@
 			"rolecode": "HRMS_ADMIN",
 			"actionid": 1781,
 			"actioncode": "",
-			"tenantId": "pb"
+			"tenantId": "up"
 		},
 		{
 			"rolecode": "STADMIN",
 			"actionid": 1781,
 			"actioncode": "",
-			"tenantId": "pb"
+			"tenantId": "up"
 		},
 		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1781,
 			"actioncode": "",
-			"tenantId": "pb"
+			"tenantId": "up"
 		},
 		{
 			"rolecode": "DGRO",
