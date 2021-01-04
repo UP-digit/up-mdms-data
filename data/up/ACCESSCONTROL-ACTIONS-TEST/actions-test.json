@@ -1694,7 +1694,7 @@
          "path": ""
       },
       {
-         "id": 1751,
+         "id": 1781,
          "name": "Employee Update",
          "url": "/egov-hrms/employees/_update",
          "parentModule": "egov-hrms",

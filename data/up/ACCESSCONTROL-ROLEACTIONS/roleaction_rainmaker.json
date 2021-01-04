@@ -1,7 +1,8 @@
 {
 	"tenantId": "up",
 	"moduleName": "ACCESSCONTROL-ROLEACTIONS",
-	"roleactions": [{
+	"roleactions": [
+		{
 			"rolecode": "SUPERUSER",
 			"actionid": 1529,
 			"actioncode": "",
@@ -152,10 +153,82 @@
 			"tenantId": "up"
 		},
 		{
-      			"rolecode": "SUPERUSER",
-      			"actionid": 1773,
-      			"actioncode": "",
-      			"tenantId": "pb"
-    		}
+			"rolecode": "SUPERUSER",
+			"actionid": 1773,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "HRMS_ADMIN",
+			"actionid": 1781,
+			"actioncode": "",
+			"tenantId": "pb"
+		},
+		{
+			"rolecode": "STADMIN",
+			"actionid": 1781,
+			"actioncode": "",
+			"tenantId": "pb"
+		},
+		{
+			"rolecode": "SUPERUSER",
+			"actionid": 1781,
+			"actioncode": "",
+			"tenantId": "pb"
+		},
+		{
+			"rolecode": "DGRO",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "EMPLOYEE",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "EMPLOYEE_FINANCE",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "GRO",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "HRMS_ADMIN",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "STADMIN",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "SUPERUSER",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "CSR",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		},
+		{
+			"rolecode": "UC_EMP",
+			"actionid": 1782,
+			"actioncode": "",
+			"tenantId": "up"
+		}
 	]
 }
