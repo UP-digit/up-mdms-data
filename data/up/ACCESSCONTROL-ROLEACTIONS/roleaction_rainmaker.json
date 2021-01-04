@@ -177,12 +177,6 @@
 			"tenantId": "up"
 		},
 		{
-			"rolecode": "DGRO",
-			"actionid": 1782,
-			"actioncode": "",
-			"tenantId": "up"
-		},
-		{
 			"rolecode": "EMPLOYEE",
 			"actionid": 1782,
 			"actioncode": "",
@@ -190,12 +184,6 @@
 		},
 		{
 			"rolecode": "EMPLOYEE_FINANCE",
-			"actionid": 1782,
-			"actioncode": "",
-			"tenantId": "up"
-		},
-		{
-			"rolecode": "GRO",
 			"actionid": 1782,
 			"actioncode": "",
 			"tenantId": "up"
@@ -214,18 +202,6 @@
 		},
 		{
 			"rolecode": "SUPERUSER",
-			"actionid": 1782,
-			"actioncode": "",
-			"tenantId": "up"
-		},
-		{
-			"rolecode": "CSR",
-			"actionid": 1782,
-			"actioncode": "",
-			"tenantId": "up"
-		},
-		{
-			"rolecode": "UC_EMP",
 			"actionid": 1782,
 			"actioncode": "",
 			"tenantId": "up"

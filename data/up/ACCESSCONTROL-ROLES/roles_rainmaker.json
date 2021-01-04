@@ -21,26 +21,6 @@
       "code": "HRMS_ADMIN",
       "name": "HRMS ADMIN",
       "description": "HRMS Administrator which can create new employees"
-    },
-    {
-      "code": "UC_EMP",
-      "name": "Universal Collection Employee",
-      "description": "Universal Miscellaneous Collection Employee"
-    },
-    {
-      "code": "CSR",
-      "name": "Customer Support Representative",
-      "description": "Employee who files and follows up complaints on behalf of the citizen"
-    },
-    {
-      "code": "DGRO",
-      "name": "Department Grievance Routing Officer",
-      "description": "GRO for a sepcific dept who assings the grievances to last mile employees"
-    },
-    {
-      "code": "GRO",
-      "name": "Grievance Routing Officer",
-      "description": "Grievance Routing Officer"
     }
   ]
 }
