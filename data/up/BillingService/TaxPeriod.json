@@ -17,5 +17,13 @@
       "service": "REV_GRANTS",
       "code": "REVGRAN2021",
       "financialYear": "2021-22"
+  },
+  {
+      "fromDate": 1585679400000,
+      "toDate": 1617175799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2020",
+      "financialYear": "2020-21"
   }]  
 }

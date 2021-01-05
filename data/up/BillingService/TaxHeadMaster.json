@@ -31,5 +31,15 @@
       "isActualDemand": false,
       "order": "0",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "propertytax",
+      "code": "PT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
     }]
 }    
