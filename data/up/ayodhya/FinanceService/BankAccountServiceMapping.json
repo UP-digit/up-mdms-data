@@ -8,6 +8,13 @@
       "bank": "Allahabad Bank",
       "bankBranch": "0090",
       "tenantId": "up.ayodhya"
+    },
+    {
+      "businessDetails": "PT",
+      "bankAccount": "24190100022258",
+      "bank": "Bank of Baroda",
+      "bankBranch": "YFAI",
+      "tenantId": "up.ayodhya"
     }
   ]
 }
