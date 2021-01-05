@@ -35,8 +35,38 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "propertytax",
-      "code": "PT_TAX",
+      "name": "Property Tax - Residential",
+      "code": "PT_TAX_RESIDENTIAL",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+{
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax - Commercial",
+      "code": "PT_TAX_COMMERCIAL",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax - Land",
+      "code": "PT_TAX_LAND",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax - Service Charges",
+      "code": "PT_TAX_SERVICE_CHARGES",
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
