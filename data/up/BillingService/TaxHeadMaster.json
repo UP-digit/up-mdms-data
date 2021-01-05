@@ -5,7 +5,7 @@
     {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS",
-      "name": "Road Development Grants (Revenue)",
+      "name": "Road Development Grants (Revenue) - 1601001",
       "code": "REV_GRANTS_ROAD_DEVELOPMENT_GRANTS",
       "isDebit": false,
       "isActualDemand": false,
@@ -15,7 +15,7 @@
     {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS",
-      "name": "Family Welfare Grant (Revenue)",
+      "name": "Family Welfare Grant (Revenue) - 1601002",
       "code": "REV_GRANTS_FAMILY_WELFARE_GRANT",
       "isDebit": false,
       "isActualDemand": false,
@@ -25,7 +25,7 @@
     {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS",
-      "name": "Census Grant (Revenue)",
+      "name": "Census Grant (Revenue) - 1601003",
       "code": "REV_GRANTS_CENSUS_GRANT",
       "isDebit": false,
       "isActualDemand": false,
@@ -35,17 +35,17 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "Property Tax - Residential",
+      "name": "Property Tax - Residential - 1100101",
       "code": "PT_TAX_RESIDENTIAL",
       "isDebit": false,
       "isActualDemand": true,
       "order": "3",
       "isRequired": false
     },
-{
+    {
       "category": "TAX",
       "service": "PT",
-      "name": "Property Tax - Commercial",
+      "name": "Property Tax - Commercial - 1100102",
       "code": "PT_TAX_COMMERCIAL",
       "isDebit": false,
       "isActualDemand": true,
@@ -55,7 +55,7 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "Property Tax - Land",
+      "name": "Property Tax - Land - 1100103",
       "code": "PT_TAX_LAND",
       "isDebit": false,
       "isActualDemand": true,
@@ -65,7 +65,7 @@
     {
       "category": "TAX",
       "service": "PT",
-      "name": "Property Tax - Service Charges",
+      "name": "Property Tax - Service Charges - 1100104",
       "code": "PT_TAX_SERVICE_CHARGES",
       "isDebit": false,
       "isActualDemand": true,
