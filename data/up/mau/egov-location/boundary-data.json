@@ -1,0 +1,89 @@
+{
+  "tenantId": "up.mau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mau",
+        "localname": "mau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "up.mau",
+        "children": [
+          {
+            "id": "1f329443-2cf6-4788-ae84-8c8f",
+            "boundaryNum": 1,
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "AZ-1",
+            "children": [
+              {
+                "id": "109dbe8f-8343-9d1b-ca10e6bb9431",
+                "boundaryNum": 1,
+                "name": "Ward 01",
+                "localname": "Ward 01",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "Ward 01",
+                "children": [
+                  {
+                    "id": "1d0138c2-4711-b689-8a74afc3b6ad",
+                    "boundaryNum": 1,
+                    "name": "Dasmesh Avenue - Ward 01",
+                    "localname": "Dasmesh Avenue - Ward 01",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "ALOC-205",
+                    "area": "",
+                    "children": []
+                  }
+                ]
+              }             
+            ]
+          }          
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "mau",
+        "localname": "mau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "up.mau",
+        "children": [
+          {
+            "id": "417b2ffa-dbaf-4f6f-a825-d902468",
+            "boundaryNum": 1,
+            "name": "OUTSIDE-MC-LIMIT",
+            "localname": "OUTSIDE-MC-LIMIT",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "ZNA1",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
