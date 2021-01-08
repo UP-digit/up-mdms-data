@@ -4,11 +4,18 @@
     "BankAccountServiceMapping": [
       {
         "businessDetails": "REV_GRANTS",
-        "bankAccount": "",
+        "bankAccount": "50011933249",
         "bank": "Allahabad Bank",
-        "bankBranch": "",
+        "bankBranch": "210132",
+        "tenantId": "up.mathura"
+      },
+      {
+        "businessDetails": "PT",
+        "bankAccount": "50037752515",
+        "bank": "Allahabad Bank",
+        "bankBranch": "210132",
         "tenantId": "up.mathura"
       }
     ]
-  }
+ }
   
