@@ -1,0 +1,21 @@
+{
+    "tenantId": "up.mau",
+    "moduleName": "FinanceModule",
+    "BankAccountServiceMapping": [
+      {
+        "businessDetails": "REV_GRANTS",
+        "bankAccount": "729120100000690",
+        "bank": "Bank of India",
+        "bankBranch": "7291",
+        "tenantId": "up.mau"
+      },
+      {
+        "businessDetails": "PT",
+        "bankAccount": "729120100000755",
+        "bank": "Bank of India",
+        "bankBranch": "7291",
+        "tenantId": "up.mau"
+      }
+    ]
+  }
+  

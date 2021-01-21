@@ -3,11 +3,27 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
   {
-      "fromDate": 1522540801000,
-      "toDate": 1838159999000,
-      "periodCycle": "FORTENYEARS",
+      "fromDate": 1585699201000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
       "service": "REV_GRANTS",
-      "code": "REVGR10YRS2018",
-      "financialYear": "2018-28"
+      "code": "REVGRAN2020",
+      "financialYear": "2020-21"
+  },
+  {
+      "fromDate": 1617235201000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN2021",
+      "financialYear": "2021-22"
+  },
+  {
+      "fromDate": 1585679400000,
+      "toDate": 1617175799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2020",
+      "financialYear": "2020-21"
   }]  
 }

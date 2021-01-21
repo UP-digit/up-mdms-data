@@ -13,7 +13,19 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Finance"
-    }   
+    },
+    {
+      "businessService": "Property Tax",
+      "code": "PT",
+      "collectionModesNotAllowed": [
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Finance"
+    } 
   ]
 }
   

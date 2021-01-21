@@ -5,14 +5,26 @@
     {
       "code":"REV_GRANTS",
       "voucherCreationEnabled":true,
-      "fund":"01",
-      "function":"000201",
-      "department":"DEPT_25",
+      "fund":"MF01",
+      "function":"0001",
+      "department":"ACC",
       "functionary":"",
       "scheme":"",
       "subscheme":"",
       "validFrom":1234567890,
       "validTo":2345678901
+    },
+    {
+      "code":"PT",
+      "voucherCreationEnabled":true,
+      "fund":"MF01",
+      "function":"0001",
+      "department":"REV",
+      "functionary":"",
+      "scheme":"",
+      "subscheme":"",
+      "validFrom":1234567890,
+      "validTo":2345678901    
     }
   ]
 }

@@ -22,7 +22,7 @@
             "districtCode":"140",
             "districtName":"Ayodhya",
             "districtTenantCode":"up.ayodhya",
-            "regionName":"Ayodhya Region",
+            "regionName":"Ayodhya Division",
             "ulbGrade":"Nagar Nigam",
             "longitude":26.7730,
             "latitude":82.1458,
@@ -32,6 +32,74 @@
             "regionCode":null,
             "municipalityName":"Nagar Nigam Ayodhya",
             "ddrName":"ayodhya-NN"
+         },
+         "address":null,
+         "contactNumber":null
+      },
+      {
+         "code":"up.mathura",
+         "name":"Mathura",
+         "description":"Mathura",
+         "logoId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mathura/logo.png",
+         "imageId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mathura/logo.png",
+         "domainUrl":null,
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"nagarayuktmathura@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":null
+         },
+         "city":{
+            "name":"Mathura",
+            "localName":"Mathura",
+            "districtCode":"167",
+            "districtName":"Mathura",
+            "districtTenantCode":"up.mathura",
+            "regionName":"Agra Division",
+            "ulbGrade":"Nagar Nigam",
+            "longitude":27.4924,
+            "latitude":77.6737,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"5837",
+            "regionCode":null,
+            "municipalityName":"Nagar Nigam Mathura Vrindavan",
+            "ddrName":"mathura-NN"
+         },
+         "address":null,
+         "contactNumber":null
+      },
+      {
+         "code":"up.mau",
+         "name":"Mau",
+         "description":"Mau",
+         "logoId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mau/logo.png",
+         "imageId":"https://s3.ap-south-1.amazonaws.com/up-dev-assets/up.mau/logo.png",
+         "domainUrl":null,
+         "type":"CITY",
+         "twitterUrl":null,
+         "facebookUrl":null,
+         "emailId":"nppmau@gmail.com",
+         "OfficeTimings":{
+            "Mon - Fri":null
+         },
+         "city":{
+            "name":"Mau",
+            "localName":"Mau",
+            "districtCode":"168",
+            "districtName":"Mau",
+            "districtTenantCode":"up.mau",
+            "regionName":"Azamgarh Division",
+            "ulbGrade":"Nagar Palika Parishad",
+            "longitude":25.9463,
+            "latitude":83.5610,
+            "shapeFileLocation":null,
+            "captcha":null,
+            "code":"6859",
+            "regionCode":null,
+            "municipalityName":"Nagar Palika Parishad Maunath Bhanjan",
+            "ddrName":"mau-NPP"
          },
          "address":null,
          "contactNumber":null

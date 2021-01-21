@@ -1,0 +1,21 @@
+{
+    "tenantId": "up.mathura",
+    "moduleName": "FinanceModule",
+    "BankAccountServiceMapping": [
+      {
+        "businessDetails": "REV_GRANTS",
+        "bankAccount": "50011933249",
+        "bank": "Allahabad Bank",
+        "bankBranch": "210132",
+        "tenantId": "up.mathura"
+      },
+      {
+        "businessDetails": "PT",
+        "bankAccount": "50037752515",
+        "bank": "Allahabad Bank",
+        "bankBranch": "210132",
+        "tenantId": "up.mathura"
+      }
+    ]
+ }
+  
