@@ -1744,7 +1744,7 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Administration.Dishonor Cheque/DD",
          "navigationURL": "services/collection/dishonour/cheque/form"
-       },
+      },
       {
          "id": 722,
          "name": "BS_SearchTaxPeriod",
@@ -1755,6 +1755,50 @@
          "serviceCode": "BS_TAX_PERIODS",
          "code": "null",
          "path": "Billing Service.Billing Masters.BS Tax Periods.BS_SearchTaxPeriod"
+      },
+      {
+         "id": 705,
+         "name": "CreateDemand",
+         "url": "/billing-service/demand/_create",
+         "displayName": "Create Demand",
+         "orderNumber": 4,
+         "enabled": false,
+         "serviceCode": "BILLING_SERVICE",
+         "code": "null",
+         "path": "Billing Service.CreateDemand"
+      },
+      {
+         "id": 711,
+         "name": "Apportion",
+         "url": "/billing-service/bill/_apportion",
+         "displayName": "Apportion",
+         "orderNumber": 10,
+         "enabled": false,
+         "serviceCode": "BILLING_SERVICE",
+         "code": "null",
+         "path": "Billing Service.Apportion"
+      },
+      {
+         "id": 1930,
+         "name": "FetchBillV2",
+         "url": "/billing-service/bill/v2/_fetchbill",
+         "displayName": "fetch Bill v2",
+         "orderNumber": 9,
+         "enabled": true,
+         "serviceCode": "BILLING_SERVICE",
+         "code": "null",
+         "path": "Billing Service.GenerateBill"
+      },
+      {
+         "id": 1945,
+         "name": "Collection Create Reciept",
+         "url": "/collection-services/payments/_create",
+         "displayName": "Create Payment",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "COLLECTION",
+         "code": "null",
+         "path": ""
       }
    ]
 }
