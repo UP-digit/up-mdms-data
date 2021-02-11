@@ -1591,6 +1591,30 @@
         "actionid": 1734,
         "actioncode": "",
         "tenantId": "up"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 722,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "CITIZEN",
+        "actionid": 722,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_RECEIPT_CREATOR",
+        "actionid": 722,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_REMIT_TO_BANK",
+        "actionid": 722,
+        "actioncode": "",
+        "tenantId": "up"
       }
    ]
 }

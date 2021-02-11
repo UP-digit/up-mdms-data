@@ -1744,6 +1744,17 @@
          "leftIcon": "editor:insert-chart",
          "path": "Finance.Administration.Dishonor Cheque/DD",
          "navigationURL": "services/collection/dishonour/cheque/form"
-       }
+       },
+      {
+         "id": 722,
+         "name": "BS_SearchTaxPeriod",
+         "url": "/billing-service/taxperiods/_search",
+         "displayName": "Search Tax Period",
+         "orderNumber": 21,
+         "enabled": false,
+         "serviceCode": "BS_TAX_PERIODS",
+         "code": "null",
+         "path": "Billing Service.Billing Masters.BS Tax Periods.BS_SearchTaxPeriod"
+      }
    ]
 }
