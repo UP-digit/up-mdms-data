@@ -1616,65 +1616,89 @@
         "actioncode": "",
         "tenantId": "up"
       },
- {
-      "rolecode": "CITIZEN",
-      "actionid": 705,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-{
-      "rolecode": "SUPERUSER",
-      "actionid": 705,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "COLL_RECEIPT_CREATOR",
-      "actionid": 705,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 711,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "COLL_RECEIPT_CREATOR",
-      "actionid": 711,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "COLL_RECEIPT_CREATOR",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1945,
-      "actioncode": "",
-      "tenantId": "up"
-    },
-    {
-      "rolecode": "COLL_RECEIPT_CREATOR",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "up"
-    },
+      {
+        "rolecode": "CITIZEN",
+        "actionid": 705,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 705,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_RECEIPT_CREATOR",
+        "actionid": 705,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_REMIT_TO_BANK",
+        "actionid": 705,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "SUPERUSER",
+        "actionid": 711,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_RECEIPT_CREATOR",
+        "actionid": 711,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_REMIT_TO_BANK",
+        "actionid": 711,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "CITIZEN",
+        "actionid": 1930,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1930,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_RECEIPT_CREATOR",
+        "actionid": 1930,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_REMIT_TO_BANK",
+        "actionid": 1930,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "EMPLOYEE",
+        "actionid": 1945,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_RECEIPT_CREATOR",
+        "actionid": 1945,
+        "actioncode": "",
+        "tenantId": "up"
+      },
+      {
+        "rolecode": "COLL_REMIT_TO_BANK",
+        "actionid": 1945,
+        "actioncode": "",
+        "tenantId": "up"
+      },
    ]
 }
