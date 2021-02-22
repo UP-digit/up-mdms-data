@@ -50,6 +50,16 @@
 		  	"name": "Works Branch",
 		  	"code": "WBRC",
 		  	"active": true
+		},
+		{
+		 	"name": "Water Works",
+		  	"code": "WAWT",
+		  	"active": true
+		},
+		{
+		  	"name": "Light",
+		  	"code": "LIG",
+		  	"active": true
 		}
 	]
 }
