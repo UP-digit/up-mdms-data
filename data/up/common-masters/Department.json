@@ -41,5 +41,15 @@
 			"code": "EDU",
 			"active": true
 		}
+		{
+		 	"name": "Water Works",
+		  	"code": "WAWR",
+		  	"active": true
+		},
+		{
+		  	"name": "Light",
+		  	"code": "LIG",
+		  	"active": true
+		}
 	]
 }
