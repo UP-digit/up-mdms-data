@@ -42,13 +42,13 @@
 			"active": true
 		},
 		{
-		 	"name": "Accounts Branch",
-		  	"code": "ABRC",
+		 	"name": "Water Works",
+		  	"code": "WAWT",
 		  	"active": true
 		},
 		{
-		  	"name": "Works Branch",
-		  	"code": "WBRC",
+		  	"name": "Light",
+		  	"code": "LIG",
 		  	"active": true
 		}
 	]
