@@ -40,6 +40,16 @@
 			"name": "Education",
 			"code": "EDU",
 			"active": true
+		},
+		{
+		  	"name": "Accounts Branch",
+		  	"code": "ABRC",
+		  	"active": true
+		},
+		{
+		  	"name": "Works Branch",
+		  	"code": "WBRC",
+		  	"active": true
 		}
 	]
 }
